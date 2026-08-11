@@ -1,0 +1,11 @@
+{
+    "name": "Anand",
+    "class": "12th",
+    "country": "India",
+    "assistant_name": "Nova",
+    "preferences": {
+        "coding": true,
+        "voice_chat": true,
+        "text_chat": true
+    }
+}
